@@ -1,0 +1,68 @@
+
+@font-face {
+    font-family: 'Instrument Serif Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Instrument Serif Regular'), url('instrumentserif-regular.woff') format('woff');
+}
+
+
+@font-face {
+    font-family: 'Instrument Serif Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Instrument Serif Italic'), url('instrumentserif-italic.woff') format('woff');
+}
+
+body {
+    background-color: #3F1B1E;
+
+    --font-default: "Instrument Serif Regular'";
+    --font-italic: "Instrumtent Serif Italic";
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 3em 0 3em;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: var(--font-default);
+    transition: all 0.3s ease 0s;
+
+    &:hover {
+        color: #B29B9D;
+        text-decoration: underline;
+    }
+}
+
+
+h1 {
+    color: white;
+    font-family: var(--font-default);
+    position: absolute;
+    left: 1em;
+    top: 4em;
+    font-size: 5rem;
+    transition: all 0.3s ease 0s;
+
+    &:hover {
+        color: #B29B9D;
+    }
+}
+
+section {
+    position: relative;
+}
+
+.noise {
+    position: absolute;
+    right: 10em;
+}
