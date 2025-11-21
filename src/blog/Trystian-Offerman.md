@@ -60,8 +60,8 @@
 - Design and engineering speak the same language because the design tokens are used in Vitamine play - native design.
 
 
-### Wht did we move to a design system
-- Its an huge investment
+### What did we move to a design system
+- It's an huge investment
 - Consistency: consistent and cohesive experience across our products and platforms
 - Eddiciency: streamlines design and development process. Enabling faster products
 - Scalability: Easy to scale design and development without sacrificing quality. nadeel dat als het design systeem stuk is dat dan andere dingen ook stuk gaan
@@ -89,7 +89,7 @@
 - Consistent: overal hetzelfde uitzien
 - Stable and predictable
 
-### What should not be in a design system
+### What should not be in a design system:
 - Page specific of flow specific UIs
 - Complete pages
 - Highly coupled to backend/domain logic: iets wat ook maar te maken heeft met de backend
