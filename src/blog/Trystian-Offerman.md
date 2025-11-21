@@ -17,7 +17,7 @@
 
 ### Product page team
 - Engineering manager
-- Product manager: gaat over de features die ze gaan aanbieden op een product page. werkt samen met de designers
+- Product manager: gaat over de features die ze gaan aanbieden op een product page. Werkt samen met de designers
 - Designers
 - Content design
 - UX Design
@@ -68,7 +68,7 @@
 - Improved collaboration: better collaboration between design and development, you speak the same language
 - Quality: Enhancing quality of the user interfaces, by using established design best practices: niet iets wat iemand snel heeft bedacht
 - Accessibility: components from the design systems are engineerd with accessinility in mind. So its not an after thought.
-- Onboarding and traning
+- Onboarding and training
 
 ### Code
 - Frameworks: React, Svelte, Vue. Would not recommend to use three frameworks in a design system. 
@@ -77,12 +77,12 @@
 ## Front-end libary
 - Foundations: colors, assets, icons, typograpght, border, spacing, motion
 - Components: buttons, 
-- WHhen rendered in the broweser ist has all the normal button properies and is made accessibily.
+- When rendered in the browser it has all the normal button properties and its made accessibily.
 
 
 ### Make sure your components are..
 - Composale
-- flexible
+- Flexible
 - Accessible
 - Themed
 - Well documented: wat doet het component, hoe maak je ze accessible
