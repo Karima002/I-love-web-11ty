@@ -25,3 +25,21 @@
 Syntaxt, concepts, core features etc. are exactly the same.
 
 # Section 2: Basics: variables, Data types, Operators and Functions
+
+### 19. Adding Javascript to the website
+- `alert('This works!')`: Hiermee verschijnt een standaard layout pop up van de browser bij herladen.
+
+### 20. Introducing variables & Constants
+- In JS you can define a variable like this: `let userName = 'Max'`. A variable is a variable container that holds some data. `Max` is the value. You only write `let` by introducing the new value. A variable is a data container where the value can change.
+- You can also define a variable with `const`. The difference is that you can't change the value, otherwise you'll get an error.
+- Use `const` as often as possible (i.e. whenever you actually got data that never changes) to be clear about your intentions in your code.
+
+### 21. Declaring & Defining Variables
+- Allowed variable Naming: `let userName` = camelCase. See also [FDND code convention](https://docs.fdnd.nl/conventies.html#naamgeving). Other examples that are allowed: `ageGroup5`, `$kindOfSpecial`.
+- Not allowed e.g. `user_name`, `21Players`, `user-b`, `let`. 
+- Using ; is generally optional in JS.
+
+### 22. Working with Variables & Operators
+
+
+
