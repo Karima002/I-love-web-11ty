@@ -40,6 +40,20 @@ Syntaxt, concepts, core features etc. are exactly the same.
 - Using ; is generally optional in JS.
 
 ### 22. Working with Variables & Operators
+- `=` assign value to variable
 
+### 23. Data types: Numbers and strings
+- Number: important for calculations and code where you need to work with a numer
+- String (Text): You can create a string by wrapping you text "", '', ``. All create a valide string, be consistent. Important for outputting results, gathering input. 
+
+### 25. Using Constants
+- JS code get executed from top to bottom
+
+``` JS
+const defaultResult = 0 // default value that will not change
+let currentResult = defaultResult // this will not change the value, we're just copying the value. 
+```
+
+### 26. More on Strings
 
 
