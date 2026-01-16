@@ -97,6 +97,14 @@
 - Wat is het minimale dat waarde levert?
 - Hoe maken we de uitkomsten van onze keuzes meetbaar?
 
+### Code
+- <meter> - laat zien hoe sterk je wachtwoord is
+- image upload: <input type="file" id="file" accept="image/*">
+- <dialog> </dialog> icm met JS zou je een popover kunnen openen en sluiten
 
 
+<img width="789" height="545" alt="Scherm­afbeelding 2026-01-16 om 13 55 07" src="https://github.com/user-attachments/assets/767d5504-cae6-4a3a-9d86-6974e4a649b3" />
 
+<img width="890" height="632" alt="Scherm­afbeelding 2026-01-16 om 13 55 19" src="https://github.com/user-attachments/assets/8abc6393-4019-4b28-b49d-1803b744755e" />
+
+<img width="880" height="713" alt="Scherm­afbeelding 2026-01-16 om 13 55 30" src="https://github.com/user-attachments/assets/17604b37-5476-49c2-921d-2307fc0a5008" />
